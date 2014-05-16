@@ -1,11 +1,6 @@
 .idea
 .DS_Store
 .sass-cache
-node_modules
-libs
-dist
-temp
-build
 custom.css
 css/components
 *.iml
