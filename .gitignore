@@ -1,6 +1,6 @@
-.idea
-.DS_Store
-.sass-cache
+/.idea
+/*.iml
+/.DS_Store
+/.sass-cache
 custom.css
 css/components
-*.iml
