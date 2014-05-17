@@ -1,2 +1,2 @@
 #!/bin/bash
-sass --watch --scss sass:css
+bundle exec sass --watch --scss sass:css

@@ -1,2 +1,2 @@
 #!/bin/bash
-sass --update --scss sass:css
+bundle exec sass --update --scss sass:css
