@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec sass --watch --scss sass:css
+bundle exec sass --watch --load-path . --scss sass:css $*

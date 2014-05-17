@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec sass --update --scss sass:css
+bundle exec sass --update --load-path . --scss sass:css $*
