@@ -2,5 +2,5 @@
 /*.iml
 /.DS_Store
 /.sass-cache
-custom.css
-css/components
+/css/style.css
+/css/components
