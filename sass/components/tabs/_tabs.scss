@@ -51,9 +51,8 @@
 }
 
 // _____ SKIN _____ //
-@import 'sass/base/project/_variables';
-@import 'sass/base/project/_helpers';
-
+@import '../../base/project/_variables';
+@import '../../base/project/_helpers';
 
 // define component placeholders for component skin (no selector here)
 @include define('tabs-skin-default') {
