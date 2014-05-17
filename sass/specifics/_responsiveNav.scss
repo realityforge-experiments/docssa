@@ -1,10 +1,10 @@
 
 
 @include breakpoint(medium) {
-    
+
     .mainMenu {
         @include _use(tabs);
-        
+
     }
     .mainMenu_item {
         border: none;
@@ -15,23 +15,23 @@
             border-bottom: 3px solid $color-main-light;
         }
     }
-    
+
     .mainMenu_item:first-child .mainMenu_link {
         border-left: none;
     }
-    
+
     .mainMenu_link {
         @include _use(tabs_link);
         text-decoration: none;
         color: $color-default-dark;
         border-left: 1px solid $color-main;
-        
-        
+
+
     }
     .navOpener {
         display :none;
     }
-    
+
     .mainNav {
         position: fixed;
         width: auto;
